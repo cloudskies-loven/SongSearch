@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_label">Search</string>
+    <string name="price_string">₱ %1$s</string>
+    <string name="artist_info"><b>Artist:</b> <u>%1$s</u></string>
+    <string name="collection_info"><b>Collection:</b> <u>%1$s</u></string>
+    <string name="track_info"><u>%1$s</u></string>
+    <string name="song_detail_label">Song Details</string>
+    <string name="not_found"><b>Welcome!</b></string>
+    <string name="load_text">Loading content</string>
+    <string name="duration"><b>Duration:</b></string>
+    <string name="price"><b>Price:</b></string>
+    <string name="released_date"><b>Released Date:</b></string>
+    <string name="explicit">Explicit</string>
+    <string name="not_explicit">General</string>
+    <string name="error_src">https://image.freepik.com/free–vector/hand–drawing–illustration-set-music-entertainment_53876-35487.jpg</string>
+</resources>
